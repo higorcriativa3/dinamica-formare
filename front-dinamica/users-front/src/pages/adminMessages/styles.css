@@ -1,0 +1,16 @@
+.filter-form {
+  width: 60%;
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 24px;
+}
+
+.filter-form h2 {
+  height: 60px;
+}
+
+.clear-button {
+  margin-top: 75px;
+  width: 105px;
+}
